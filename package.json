@@ -1,10 +1,11 @@
 {
   "name": "info-comment",
   "main": "./lib/info-comment",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "C style block comments",
   "keywords": [
-    "block comment", "C style block comment"
+    "block comment",
+    "C style block comment"
   ],
   "activationCommands": {
     "atom-workspace": "info-comment:toggle"
