@@ -1,0 +1,25 @@
+{
+  "name": "info-comment",
+  "main": "./lib/info-comment",
+  "version": "0.0.0",
+  "description": "C style block comments",
+  "keywords": [
+    "block comment", "C style block comment"
+  ],
+  "activationCommands": {
+    "atom-workspace": "info-comment:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibykow/info-comment.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "oniguruma": "^5",
+    "text-buffer": "8.1.1",
+    "underscore-plus": "^1.6.6"
+  }
+}
