@@ -1,7 +1,7 @@
 {
   "name": "info-comment",
   "main": "./lib/info-comment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "C style block comments",
   "keywords": [
     "block comment",
