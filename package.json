@@ -5,7 +5,8 @@
   "description": "C style block comments",
   "keywords": [
     "block comment",
-    "C style block comment"
+    "C style block comment",
+    "multi-line comment"
   ],
   "activationCommands": {
     "atom-workspace": "info-comment:toggle"
