@@ -1,8 +1,8 @@
-# info-comment
-C style multi-line block comments
+# info-comment ![travis build badge](https://travis-ci.org/ibykow/info-comment.svg?branch=master)
+C-style multi-line block comments
 
 Tired of formatting multi-line C-style block comments by hand?  
-Well now you can use `ctrl-cmd-/` to change this:
+Well now you can use `ctrl-shift-/` to change this:
 
 ```javascript
 This is a comment
