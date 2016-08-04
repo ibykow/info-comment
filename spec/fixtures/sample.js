@@ -34,3 +34,7 @@ function findFirst(array, func) {
 
     return null;
 }
+
+/*
+ * Pre-commented
+ */
